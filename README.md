@@ -33,7 +33,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 The challenges I faced included how I could specify the country's current currency code onto the textfields. Other challenges were on setting the default tip percentage.
 
 ## License
